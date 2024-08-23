@@ -7,5 +7,5 @@
 Buscando minha primeira oportunidade na área de TI, com foco em expandir meus conhecimentos e contribuir com soluções inovadoras.
 
 - :office_worker: Desenvoldedor (back-end e banco de dados).
-- :blue_heart: linguagens: python, java, TypeScript e Sql.
+- :blue_heart: linguagens: Python, Java, JavaScript, TypeScript e Sql.
 - :books: Estudando: Estrutura de dados, Algoritmo e Desenvolvimento Mobile.
